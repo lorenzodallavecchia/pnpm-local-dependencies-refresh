@@ -1,0 +1,10 @@
+{
+  "name": "local-package",
+  "version": "1.0.0",
+  "files": [
+	  "index.js"
+  ],
+  "peerDependencies": {
+	  "@angular/core": "13.0.0"
+  }
+}
